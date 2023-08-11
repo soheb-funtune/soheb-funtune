@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayyad Soheb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nanded,Maharashtra,India</h3>
 
-- 🌱 I’m currently learning **Express,Next.js**
+- 🌱 I’m currently learning
+-                             **  Express  ✔  Next.js ✔ **
 
-- 💬 Ask me about **Reactjs,JavaScript,Redux,Express,HTML,CSS,Bootstrap,Redux-toolkit,React-Query**
+- 💬 Ask me about
+                   **  Reactjs ✔  JavaScript  ✔  Redux  ✔  Express  ✔  HTML  ✔  CSS  ✔  Bootstrap  ✔  Redux-toolkit ✔ React-Query ✔ 
+ **
 
-- 📫 How to reach me **sohebs5050@gmail.com**
+- 📫 How to reach me
+-                     **  sohebs5050@gmail.com  **                                 Contact no :  **  9604376207  **
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive?ths=true](https://drive.google.com/drive/my-drive?ths=true)
 
