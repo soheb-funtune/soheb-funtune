@@ -11,7 +11,6 @@
 - 📫 How to reach me
 -                     **  sohebs5050@gmail.com  **                                 Contact no :  **  9604376207  **
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive?ths=true](https://drive.google.com/drive/my-drive?ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
